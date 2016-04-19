@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 蓝色 -->
+    <color name="blue">#2AC2EF</color>
+     <!-- 浅黑灰色字体颜色 -->
+    <color name="font_color_gray_black">#656565</color>
+
+</resources>
